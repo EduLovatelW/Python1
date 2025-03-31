@@ -5,3 +5,5 @@ Com bibliotecas como Pandas, NumPy, Matplotlib e Scikit-learn, ele permite trans
 
 Nesta atividade, utilizaremos o Anaconda para gerenciamento de pacotes ou o Google Colab para execução online do código. 
 O objetivo é proporcionar uma introdução prática ao uso do Python na ciência de dados, capacitando os participantes para desafios analíticos e tomada de decisões baseadas em dados.
+
+Este trabalho foi feito com meu colega de classe Eduardo Menin.
